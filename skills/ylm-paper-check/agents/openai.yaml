@@ -1,0 +1,4 @@
+interface:
+  display_name: "YLM 文章全文一致性检查"
+  short_description: "检查中英文文章的术语、符号、引用、跨节主张和 LaTeX 编译"
+  default_prompt: "请使用 $ylm-paper-check 检查这篇文章的全文一致性与编译情况，先给诊断和修复方案。"

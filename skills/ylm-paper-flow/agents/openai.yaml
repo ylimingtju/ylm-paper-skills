@@ -1,0 +1,4 @@
+interface:
+  display_name: "YLM 文章论述与结构优化"
+  short_description: "优化中英文文章的段落功能、信息顺序和论述衔接，保留技术内容"
+  default_prompt: "请使用 $ylm-paper-flow 检查这篇文章的论述与段落组织，先给诊断和方案，确认后调整。"

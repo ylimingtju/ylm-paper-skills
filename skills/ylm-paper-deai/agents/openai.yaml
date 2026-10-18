@@ -1,0 +1,4 @@
+interface:
+  display_name: "YLM 文章去 AI 写作痕迹"
+  short_description: "依据原文证据清理中英文模板表达、空泛包装和正文中的回复口吻"
+  default_prompt: "请使用 $ylm-paper-deai 检查这篇文章的模板化表达，先给诊断和方案，确认后修改。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "YLM 文章语言润色"
+  short_description: "润色中英文学术表达、语法和局部行文，保持科学含义与原有论述"
+  default_prompt: "请使用 $ylm-paper-language 润色这篇文章的语言，先给诊断和方案，确认后修改。"

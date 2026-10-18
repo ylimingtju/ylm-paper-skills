@@ -1,0 +1,4 @@
+interface:
+  display_name: "YLM 文章综合润色"
+  short_description: "综合处理中英文文章的语言、去模板化、论述组织和全文一致性"
+  default_prompt: "请使用 $ylm-paper-polish 综合润色这篇文章，先给诊断和修改方案，确认后修改并核查。"
